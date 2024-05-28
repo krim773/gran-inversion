@@ -1,0 +1,7 @@
+.container {
+  font-family: "lato";
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
